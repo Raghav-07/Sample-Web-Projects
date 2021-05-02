@@ -16,12 +16,17 @@ ul {
 width:100%;
 }
 
-h3 {
-	font-family:Comic Sans MS;
+.cc {
+	text-align: center;
+	font-family: Aries;
 }
 
+h3 {      
+	font-family:Comic Sans MS;
+} 
+
 input {
-		background:pink;
+		background:#ffdde2;
 
 padding-top: 10px;
 padding-top: 10px;
@@ -52,14 +57,14 @@ li:nth-child(2n){
 }
 
 body {
-	background: #2980B9;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: #485563;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
 span {
-	background:red;
+	background:#C00000;
 	height:40px;
 	margin-right: 20px;
 	text-align: center;
