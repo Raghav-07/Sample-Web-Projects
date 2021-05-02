@@ -1,0 +1,44 @@
+h5 {
+	font-family:Monotype Corsiva;
+	color:purple;
+	text-align: center;
+	font-weight:bold;
+}
+
+h4 {
+		font-family:Goudy Old Style;
+
+	}
+.one {
+float:right;
+}
+
+  .box {
+            position: relative;
+            width: 100%;
+            max-width: 33%;
+            float:left;
+         }
+         .box img {
+            width: 100%;
+            height: auto;
+         }
+         .box .btn {
+            position: relative;
+            left: 45%;
+            background-color:;
+         }
+
+p {
+		font-weight:bold;
+		padding-left: 55px;
+		color:steelblue;
+}
+.pstar {
+	color:red;
+	padding-left: 45%;
+}
+.pak {
+	padding-left: 200px;
+
+
