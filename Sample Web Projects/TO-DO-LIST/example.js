@@ -29,5 +29,5 @@ $(this).parent().remove();
 })
 
 $(".fa-plus").click(function(){
-	$("input").fadeToggle();
+	$("input").fadeToggle();              
 });
